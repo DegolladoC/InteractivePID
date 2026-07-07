@@ -62,8 +62,22 @@ El lazo cerrado calcula el error `e = setpoint - salida`, aplica el PID
 
 - **Día 1** — Setup del repo + RK4 + una planta (motor DC) graficada estática.
 - **Día 2** — Lazo cerrado con PID + sliders funcionando y re-simulación.
-- **Día 3** — Panel de métricas + las otras dos plantas.
-- **Día 4** — Modo tiempo real + presets + pulido visual y deploy.
+- **Día 3** — Panel de métricas + las otras dos plantas. Igual que en Día 4, la
+  **presentación visual de este panel queda bloqueada** hasta definir la marca
+  personal del proyecto — la lógica y los cálculos sí se hacen, pero su acabado
+  visual espera a esa identidad.
+- **Día 4** — Modo tiempo real + presets + deploy. El **pulido visual queda bloqueado**
+  hasta definir la marca personal del proyecto (paleta de colores + esencia visual) —
+  esa identidad debe estar lista antes de continuar con el acabado de la UI.
+
+## Marca personal (bloqueado)
+
+La identidad visual (paleta de colores + esencia) de la que dependen el pulido de
+Día 3, Día 4 y el rediseño del Artifact de mapa del proyecto se va a basar en el
+sitio/portafolio personal existente del autor.
+
+- **Link del portafolio:** _pendiente — compartir antes de continuar con cualquier
+  trabajo visual._
 
 ## Deploy
 
